@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Delete My Account – QuizMaster</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 700px; margin: auto; padding: 20px; line-height: 1.6; }
+    h1 { color: #d32f2f; }
+    a { color: #1976d2; }
+  </style>
+</head>
+<body>
+  <h1>Request Account Deletion</h1>
+  <p>This page allows users of the <strong>QuizApp</strong> app to request account and data deletion.</p>
+
+  <h3>How to request deletion</h3>
+  <p>Please email us at <a href="mailto:yourname@example.com">developer.umang.mhta@gmail.com</a> with your account email and subject: <strong>“Delete My QuizApp Account”</strong>.</p>
+
+  <h3>What will be deleted?</h3>
+  <ul>
+    <li>Your profile, stats, XP, and leaderboard info</li>
+    <li>Any saved game progress</li>
+    <li>Your Firebase authentication account</li>
+  </ul>
+
+  <h3>Data retention</h3>
+  <p>Once deleted, your data cannot be recovered. We may retain logs for up to 30 days for fraud prevention and legal compliance.</p>
+
+  <p>Developer: <strong>Umang Mehta</strong></p>
+</body>
+</html>
